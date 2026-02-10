@@ -1,0 +1,16 @@
+.tab-btn {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.isActive {
+  border-bottom: 1.5px solid #2563eb;
+  color: #2563eb;
+}
+
+.inActive {
+  color: #7b8794;
+  border-bottom: 1.5px solid #7b8794;
+}
